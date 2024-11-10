@@ -1,7 +1,7 @@
 <h1 align="center">Hello 😶‍🌫️😶‍🌫️ I’m Yoga Naden an IT enthusiast</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadenbogeee&label=Profile%20views😶‍🌫️😶‍🌫️&color=brightgreen&style=plastic" alt="nadenbogeee" /> </p>
-<h3 align="center">A dedicated Frontend Developer from Medan - Indonesia, with aspirations to grow into a Fullstack Developer.</h3>
+<h3 align="justify">A dedicated Frontend Developer from Medan - Indonesia, with aspirations to grow into a Fullstack Developer.</h3>
 
 
 - 🌱 I’m currently learning **MERN Stack - Front-end - Fullstack**
