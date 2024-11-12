@@ -6,7 +6,7 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadenbogeee&label=Profile%20views😶‍🌫️😶‍🌫️&color=brightgreen&style=plastic" alt="nadenbogeee" /> </p>
-<h3 align="justify">A dedicated Frontend Developer from Medan - Indonesia, with aspirations to grow into a Fullstack Developer.</h3>
+<p align="justify">A dedicated <strong><em>"Frontend Developer"</em></strong> from Medan - Indonesia, with aspirations to grow into a <strong><em>"Fullstack Developer"</em></strong>.</p>
 
 ###
 
@@ -49,9 +49,9 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
 </p>
 
