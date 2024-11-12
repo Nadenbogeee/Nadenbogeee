@@ -1,7 +1,7 @@
 <h1 align="center">Hello 😶‍🌫️😶‍🌫️ I’m Yoga Naden an IT enthusiast</h1>
 <p>
     
-<img width="80%" src="https://i.ibb.co.com/s3Fc0z5/background-linked-Ingit.jpg" alt="background-linked-Ingit" border="0">
+<img width="75%" src="https://i.ibb.co.com/s3Fc0z5/background-linked-Ingit.jpg" alt="background-linked-Ingit" border="0">
 <img align="right" height="150" src="https://i.ibb.co.com/Qf7LN7Y/unnamed.jpg" alt="unnamed" border="0">
 </p>
 
