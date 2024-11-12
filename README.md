@@ -6,7 +6,7 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadenbogeee&label=Profile%20views😶‍🌫️😶‍🌫️&color=brightgreen&style=plastic" alt="nadenbogeee" /> </p>
-<h4 align="justify">A dedicated <strong><em>"Frontend Developer"</em></strong> from Medan - Indonesia, with aspirations to grow into a <strong><em>"Fullstack Developer"</em></strong>.</h4>
+<h4 align="center">A dedicated <strong><em>"Frontend Developer"</em></strong> from Medan - Indonesia, with aspirations to grow into a <strong><em>"Fullstack Developer"</em></strong></h4>
 
 ###
 
