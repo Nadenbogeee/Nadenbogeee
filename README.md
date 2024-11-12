@@ -1,5 +1,9 @@
 <h1 align="center">Hello 😶‍🌫️😶‍🌫️ I’m Yoga Naden an IT enthusiast</h1>
-<img src="https://i.ibb.co.com/s3Fc0z5/background-linked-Ingit.jpg" alt="background-linked-Ingit" border="0">
+<p>
+    
+<img width="83%" src="https://i.ibb.co.com/s3Fc0z5/background-linked-Ingit.jpg" alt="background-linked-Ingit" border="0">
+<img align="right" height="150" src="https://i.ibb.co.com/Qf7LN7Y/unnamed.jpg" alt="unnamed" border="0">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadenbogeee&label=Profile%20views😶‍🌫️😶‍🌫️&color=brightgreen&style=plastic" alt="nadenbogeee" /> </p>
 <h3 align="justify">A dedicated Frontend Developer from Medan - Indonesia, with aspirations to grow into a Fullstack Developer.</h3>
